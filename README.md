@@ -26,6 +26,7 @@ I'm a passionate and driven software engineer specializing in building robust an
 * Engineered a high-volume email service, delivering over 10,000 transactional emails daily. This service, triggered by 100+ platform events, featured templating, debugging tools, self-documentation, bounce monitoring, and engagement analysis, supporting localized content in 3 languages.
 * Designed and implemented a user presence API to display online status. This involved consuming Pusher webhook requests, updating a state machine, and exposing the presence API via GraphQL on a chatroom resource.
 * Designed and implemented a Salesforce data integration service. This event-driven service synchronized platform data with Salesforce, supporting critical workflows and reporting and providing the sales team with access to funnel charts for improved customer engagement.
+* Developed an application to manage content for an NLP-based Question-Answer System, enabling efficient curation and delivery of information.
 
 ### SS&C Advent, San Francisco, CA - Senior Software Engineer (2007 - 2015)
 
