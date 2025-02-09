@@ -23,7 +23,7 @@ I'm a passionate and driven software engineer specializing in building robust an
 
 ### Globality, San Francisco, CA - Senior Software Engineer 2 (2015 - 2023)
 
-* Designed and implemented a new service for the platform, facilitating easy email sharing within the application. This service saw widespread adoption across all teams.
+* Engineered a high-volume email service, delivering over 10,000 transactional emails daily. This service, triggered by 100+ platform events, featured templating, debugging tools, self-documentation, bounce monitoring, and engagement analysis, supporting localized content in 3 languages.
 * Designed and implemented a user presence API to display online status. This involved consuming Pusher webhook requests, updating a state machine, and exposing the presence API via GraphQL on a chatroom resource.
 * Designed and implemented a Salesforce data integration service. This event-driven service synchronized platform data with Salesforce, supporting critical workflows and reporting and providing the sales team with access to funnel charts for improved customer engagement.
 
